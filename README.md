@@ -9,9 +9,13 @@ This project is a simple recipe website built as part of [The Odin Project](http
 
 ## Getting Started
 
+### View Online
+Visit the live website at: https://cheryl-29.github.io/odin-recipes/index.html
+
+### Run Locally
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/odin-recipes.git
+    git clone https://github.com/Cheryl-29/odin-recipes.git
     ```
 2. Open `index.html` in your web browser to view the site.
 
